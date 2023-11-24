@@ -1,0 +1,3 @@
+Filters are global methods that transform strings or other Javascript types.
+
+For example: date formatting, currency formatting etc...
